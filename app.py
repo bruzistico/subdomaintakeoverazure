@@ -3,4 +3,4 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
-    return "Subdomain Takeover - Azure - Pride"
+    return "Subdomain Takeover - Azure"
